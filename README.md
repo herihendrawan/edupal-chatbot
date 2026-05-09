@@ -1,4 +1,6 @@
 # 🎓 EduPal — AI Chatbot Edukasi
+coba aplikasinya
+https://edupal-chatbot-i89adakzme2ufrsq9xydsa.streamlit.app
 
 EduPal adalah chatbot edukasi berbasis AI yang ramah dan menyenangkan untuk semua kalangan.
 
